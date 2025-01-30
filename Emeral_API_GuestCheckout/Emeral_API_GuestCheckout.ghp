@@ -79,13 +79,13 @@
                 <proxy useProxy="false"/>
             </connectionParams>
         </dbConnectionParameters>
-        <automationServer enabled="false" hostname="" port="443"
-            projectId="-1" projectName="--No Project Selected--"
-            publishResults="false" trustSource="TRUST_ALL"
-            trustStorePassword="#com.ghc.1!f4c4" trustStorePath=""/>
+        <automationServer enabled="false" projectId="-1"
+            projectName="--No Project Selected--" publishResults="false"
+            trustSource="TRUST_ALL" trustStorePassword="#com.ghc.1!b298"
+            trustStorePath="" url=""/>
     </serverSettings>
     <permissionsSettings ADtrustSource="NONE"
-        ADtrustStorePassword="#com.ghc.1!c8ff" ADtrustStorePath=""
+        ADtrustStorePassword="#com.ghc.1!e59f" ADtrustStorePath=""
         autoLogin="true" host="AP-PNP-DC02"
         permFactId="ldap.permissions.factory.none" port="389" pswd="Ekca1HttlIsCuz+5UctxZ1mamQlwaHAsx4PJfoZwDn4=$0CDWbH5WcSUHXUuQxi4eESexJBcaaXueG2cD9xuxHHQ="/>
 </_c>
